@@ -40,7 +40,7 @@ class MyDrawer extends StatelessWidget {
           ),
           ListTile(
             leading: const Icon(Icons.home),
-            title: const Text('Home'),
+            title: const Text('Homes'),
             onTap: () {
               Navigator.pop(context);
             },
